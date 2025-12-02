@@ -1,0 +1,12 @@
+StudentID, StudentName, Age, City, Marks	
+1,'Amit',20,'Pune',85 
+2,'Riya',22,'Delhi',90
+3,'Sam',21,'Mumbai',75 
+4,'Neha',23,'Pune',88 
+5,'Raj',20,'Chennai',70
+6,'Rahul',20,'madhurai',58
+7,'Ganesh',25, 'Nagpur', 65
+8, 'Gita', 26, 'Mumbai',87
+9, 'mahima',30, 'Kota', 89
+10, 'nidhi',32, Jaipur', 90
+
